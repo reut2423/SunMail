@@ -1,4 +1,4 @@
-# ex4.Web - SunMail
+#  SunMail
 
 ![SunMail Logo](./images/SunMailLogo.png)
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-ex4.Web is a modern web application designed to manage your emails. It offers an intuitive interface and advanced features such as label organization, draft management, a security filtering system based on a Bloom filter, and a dark mode for a better user experience. Data is currently stored locally in memory arrays, which simplifies development and testing.
+SunMail is a modern web application designed to manage your emails. It offers an intuitive interface and advanced features such as label organization, draft management, a security filtering system based on a Bloom filter, and a dark mode for a better user experience. Data is currently stored locally in memory arrays, which simplifies development and testing.
 
 ---
 
